@@ -1,0 +1,5 @@
+1) Favicon doesn't display in any browser
+2) Google Web Fonts do not display correctly in Google Chrome
+3) jQuery fade in for iFrames does not occur in IE
+4) Nav bar elements do not scale (except About Us) in all browsers except IE
+5) IE falls back to Arial on 'left' panel
